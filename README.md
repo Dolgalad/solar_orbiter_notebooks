@@ -14,3 +14,8 @@ python -m pip install -r requirements.txt
 ![Electron flux](/img/eflux_ts.png)
 
 ![Proton flux](/img/hflux_spectro.png)
+
+## Alfvenic Slow Solar Wind
+`alfvenic_slow_solar_wind.ipynb`: Multiscale views of an Alfvenic slow solar wind: 3D velocity distribution functions observed by the Proton-Alpha Sensor of Solar Orbiter.
+
+![PAS L2](/img/pas_l2_spectro.png)
