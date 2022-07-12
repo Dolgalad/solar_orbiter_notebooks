@@ -1,0 +1,6 @@
+# notebooks
+.ipynb_checkpoints
+__pycache__
+
+# cached data
+notebooks/cache
